@@ -1,8 +1,8 @@
 class XedTui < Formula
   desc "Terminal browser and session manager for Claude Code"
   homepage "https://tui.xed.dev"
-  url "https://files.pythonhosted.org/packages/11/81/22e08a75eeff7f78c5bd89acaf6f26a2d63aa6ede6235647cf8ff2010b8b/xed_tui-1.22.tar.gz"
-  sha256 "7d9ca9d8510d7baf6536843753ad3448f23821a4fd9e813c7dfdf4e34cf4fd8c"
+  url "https://files.pythonhosted.org/packages/6c/b2/924f21c1ae37ce292fce19dae1c0f6f51fe376a58b927e431cdf391fd2fe/xed_tui-1.23.0.tar.gz"
+  sha256 "2f4a815543991cb69c4f760951ab40cb612a5a71365572d1b090a55a7383e827"
   license "MIT"
   head "https://github.com/XED-dev/TUI.git", branch: "main"
 
